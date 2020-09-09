@@ -3,4 +3,5 @@ This is the lambda functions that is used for performing validations on the voic
 The chatbot performs 2 main functions/intents:
 
 -Get a users balance(getmybalance.js)
+
 -Transfer money to a bank account(banktransfer.js)
