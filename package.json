@@ -1,0 +1,19 @@
+{
+    "name": "eyowolexproject",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "serverless-webpack": "^5.3.1"
+    },
+    "dependencies": {
+        "axios": "^0.19.0",
+        "dotenv": "^8.0.0",
+        "paystack-api": "^2.0.1"
+    }
+}
