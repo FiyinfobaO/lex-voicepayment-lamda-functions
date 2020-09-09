@@ -1,0 +1,6 @@
+config
+# package directories
+node_modules
+
+# Serverless directories
+.serverless
