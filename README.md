@@ -1,4 +1,4 @@
-This is the lambda functions that is used for performing validations on the voice chatbot while calling the EYOWO API to carry out respective transactions.
+This is the lambda function that is used for performing validations on the Amazon Lex voice chatbot while calling the EYOWO API to carry out respective transactions.
 
 The chatbot performs 2 main functions/intents:
 
